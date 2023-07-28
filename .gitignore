@@ -9,3 +9,6 @@ indexer.toml
 # IDE files
 .vscode/
 migrations/
+
+# sqlx
+**/.sqlx/
